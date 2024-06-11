@@ -36,8 +36,7 @@ class JokesGenerator
 	$jokeName = $joke['joke'];
 	
 	echo 
-	"<div style='width:200;text-align:center;font-size:30;background:#502D92;padding:5;'>
-		<p style='color:#438899;font-size:20;'>$jokeName</p>
+	"<div style='width:400;font-size:20;color:#99f906;background:black;padding:10;'>$jokeName
 	</div>";
 	
 	}
